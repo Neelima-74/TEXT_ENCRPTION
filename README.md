@@ -1,4 +1,4 @@
-# TEXT_ENCRPTION
+# TEXT_ENCRYPTION
 Basic level project in the field of Cybersecurity. Text encryption is the process converting the textual information into a cipher or code.
 ecryption.js and test.js are need to be executed.
 
